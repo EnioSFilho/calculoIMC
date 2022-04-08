@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200&family=Montserrat:wght@100&family=Nanum+Gothic&family=Roboto:wght@100&family=Ubuntu:wght@300&display=swap');
+
+body {
+
+    margin: 0px;
+    padding: 0px;
+    background: gray;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.corpoDaCalculadora{
+
+    
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    background: blueviolet;
+    margin-top: 140px;
+    margin-left: 500px;
+    color: yellow;
+    border-radius: 30px;
+    gap: 10px;
+    text-align: center;
+    box-shadow: 3px 15px 15px black;
+
+}
+
+.texto {
+
+    width:150px;
+    text-align: center;
+    margin-left: 110px;
+    font-size: 20px;
+    border: 1px solid white;
+    padding: 10px;
+    margin-top: 40px;
+    background: blue;
+}
+
+.nome{
+
+    margin-top: 40px;
+    text-align: center;
+    
+}
+
+.container{
+
+    padding: 0px;
+    margin-top: 20px;
+    
+    width: 200px;
+    margin-left: 100px;
+    
+    color: yellow;
+
+}
